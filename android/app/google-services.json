@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "200276489571",
+    "project_id": "instafy-30f57",
+    "storage_bucket": "instafy-30f57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200276489571:android:dcb9b77b4535037d960f56",
+        "android_client_info": {
+          "package_name": "in.codingboy.instafy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200276489571-g3l1gehjf1u494tm30k6rficmd853f72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3NyQbucJ94rRPd-zHMr-L1Oz3iXT8090"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200276489571-g3l1gehjf1u494tm30k6rficmd853f72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
